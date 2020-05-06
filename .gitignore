@@ -10,3 +10,5 @@ accounts/__pycache__
 listings/__pycache__
 pages/__pycache__
 realtors/__pycache__
+
+static/*
