@@ -3,7 +3,7 @@
 .directory/
 env
 db.sqlite3
-static
+
 media
 db.sqlite3
 accounts/__pycache__
@@ -11,4 +11,3 @@ listings/__pycache__
 pages/__pycache__
 realtors/__pycache__
 
-static/*
